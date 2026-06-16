@@ -61,4 +61,4 @@ Electronics Store is a .NET C# application developed in Visual Studio for managi
 
 ## Author
 
-Mudassir Saddiqui
+Mudassir Saddiqui ( F23BDOCS1E02063)
